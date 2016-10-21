@@ -1,2 +1,3 @@
 # aakashkhatter1296.github.io
-Personal website.
+Hi, this is my personal website. 
+https://aakashkhatter1296.github.io
