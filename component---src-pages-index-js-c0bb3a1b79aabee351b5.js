@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"2jKp":function(n,o,e){n.exports={comingSoonContainer:"index-module--comingSoonContainer--3xXkP"}},AJJY:function(n,o,e){},RXBc:function(n,o,e){"use strict";e.r(o),e.d(o,"default",(function(){return a}));var t=e("q1tI"),i=e.n(t),c=(e("rpBN"),e("AJJY"),e("2jKp")),r=e.n(c);function a(){return i.a.createElement("div",{className:r.a.comingSoonContainer},i.a.createElement("h1",null,"Something big coming soon!"))}},rpBN:function(n,o,e){}}]);
+//# sourceMappingURL=component---src-pages-index-js-c0bb3a1b79aabee351b5.js.map
